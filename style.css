@@ -1,0 +1,33 @@
+#lebron{
+    width: 100%;
+}
+#anthony{
+    width: 100%;
+}
+#kyle{
+    width: 100%;
+}
+body{
+    background: linear-gradient(90deg,purple,gold);
+}
+.cursive{
+    font-family: 'Barriecito', cursive;
+}
+.img{
+    text-align: center;
+}
+.grow{
+    padding: 3vw;
+    text-align: center;
+}
+.grow:hover{
+    transform:scale(1.1);
+}
+a{
+    text-decoration: none;
+    color: gold;
+}
+
+#kk:hover{
+    transform: scale(1.1);
+}
