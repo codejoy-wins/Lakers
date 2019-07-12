@@ -7,6 +7,9 @@
 #kyle{
     width: 100%;
 }
+.widify{
+    width: 100%;
+}
 body{
     background: linear-gradient(90deg,purple,gold);
 }
